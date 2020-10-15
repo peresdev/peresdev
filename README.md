@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=peresdev)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-peres-gonçalves-aa382150)](https://www.linkedin.com/in/leandro-peres-gonçalves-aa382150)
 <!--
 **peresdev/peresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
